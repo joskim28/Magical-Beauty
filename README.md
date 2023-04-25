@@ -50,4 +50,4 @@ Tienda online de maquillaje, cuidados de belleza y mucho mas
 ## Video explicativo de la funcionalidad de nuestra pagina:
 * https://drive.google.com/file/d/1-CSmXc7UYPqrqAh03SZgFrXWeRyTgq3q/view?usp=share_link
   ## Enlace a la página:
-  ### 
+  ### https://joskim28.github.io/Magical-Beauty/
