@@ -36,6 +36,9 @@ Tienda online de maquillaje, cuidados de belleza y mucho mas
 * LEARN STARTUP
 * ![Image text](assets/cv/lj.png)
 
+* Link Medium:
+* https://medium.com/@toprosies/magical-beauty-d8ddb0556c50
+
 * MODELO CANVAS
 * ![Image text](assets/cv/bt.jpeg)
 DESING THINKING [Link del documento]
