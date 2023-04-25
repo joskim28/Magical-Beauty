@@ -34,7 +34,7 @@ Tienda online de maquillaje, cuidados de belleza y mucho mas
 
 ## Metodologias aplicadas al proyecto
 * LEARN STARTUP
-* ![Image text]()
+* ![Image text](assets/cv/lj.png)
 
 * MODELO CANVAS
 * ![Image text](assets/cv/bt.jpeg)
