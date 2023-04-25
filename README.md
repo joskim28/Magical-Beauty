@@ -46,6 +46,7 @@ Tienda online de maquillaje, cuidados de belleza y mucho mas
 
 ### DESING THINKING [Link del documento]
 * https://www.canva.com/design/DAFefiDqQQ8/4xCJN0gWaI0FvOr_MAaLpw/edit?utm_content=DAFefiDqQQ8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
   
 ## Video explicativo de la funcionalidad de nuestra pagina:
 * https://drive.google.com/file/d/1-CSmXc7UYPqrqAh03SZgFrXWeRyTgq3q/view?usp=share_link
