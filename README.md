@@ -33,15 +33,18 @@ Tienda online de maquillaje, cuidados de belleza y mucho mas
 ![Image text](assets/pt/prot5.jpeg)
 
 ## Metodologias aplicadas al proyecto
-* LEARN STARTUP
-* ![Image text](assets/cv/lj.png)
-
-* Link Medium:
+### Link Medium:
 * https://medium.com/@toprosies/magical-beauty-d8ddb0556c50
 
-* MODELO CANVAS
+### LEARN STARTUP
+* ![Image text](assets/cv/lj.png)
+
+
+
+###  MODELO CANVAS
 * ![Image text](assets/cv/bt.jpeg)
-DESING THINKING [Link del documento]
+
+### DESING THINKING [Link del documento]
 * https://www.canva.com/design/DAFefiDqQQ8/4xCJN0gWaI0FvOr_MAaLpw/edit?utm_content=DAFefiDqQQ8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
   
 ## Video explicativo de la funcionalidad de nuestra pagina:
